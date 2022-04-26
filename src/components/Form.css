@@ -1,0 +1,18 @@
+form{
+    margin: 100px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.first{
+margin: 10px;
+}
+
+.second{
+margin: 10px;
+}
+
+.third{
+    margin: 10px;
+}
